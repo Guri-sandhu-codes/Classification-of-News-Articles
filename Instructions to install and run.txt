@@ -1,0 +1,4 @@
+1. Open the `app.py` file.
+2. Start the terminal and run the command `python app.py`. This will generate a localhost link; click on it.
+3. You'll be directed to the website.
+4. Input the news article you want to classify and click the "Classify" button. The prediction results will be displayed on the web page.
