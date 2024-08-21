@@ -19,8 +19,8 @@ This application classifies news articles into one of six categories: Business, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/news-article-classification-app.git
-cd news-article-classification-app
+git clone https://github.com/Guri-sandhu-codes/Classification-of-News-Articles.git
+cd Classification-of-News-Articles
 ```
 
 ### Install Dependencies
